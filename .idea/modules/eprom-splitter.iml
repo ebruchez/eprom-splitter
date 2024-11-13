@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="eprom-splitter [file:/Users/ebruchez/Projects/eprom-splitter/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="eprom-splitter" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../target/scala-3.3.3/classes" />
+    <output-test url="file://$MODULE_DIR$/../../target/scala-3.3.3/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/scala" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: scala-sdk-3.3.3" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala3-library_3:3.3.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-native:scala3lib_native0.5_3:3.3.3+0.5.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-native:nativelib_native0.5_3:0.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-native:clib_native0.5_3:0.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-native:posixlib_native0.5_3:0.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-native:windowslib_native0.5_3:0.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-native:javalib_native0.5_3:0.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-native:auxlib_native0.5_3:0.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.lihaoyi:os-lib_native0.5_3:0.11.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.lihaoyi:mainargs_native0.5_3:0.7.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-native:scalalib_native0.5_2.13:2.13.13+0.5.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.lihaoyi:geny_native0.5_3:1.1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-collection-compat_native0.5_3:2.12.0:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scala-native:test-interface_native0.5_3:0.5.1:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scala-native:test-interface-sbt-defs_native0.5_3:0.5.1:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scala-native:junit-runtime_native0.5_3:0.5.1:jar" level="project" />
+  </component>
+</module>

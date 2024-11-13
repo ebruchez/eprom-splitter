@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="eprom-splitter_2857" />
+    <profile name="sbt 2" modules="eprom-splitter">
+      <parameters>
+        <parameter value="-P:scalanative:positionRelativizationPaths:/Users/ebruchez/Projects/eprom-splitter/src/main/scala;/Users/ebruchez/Projects/eprom-splitter/src/main/scala-3;/Users/ebruchez/Projects/eprom-splitter/src/main/java;/Users/ebruchez/Projects/eprom-splitter/target/scala-3.3.3/src_managed/main" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-native/nscplugin_3.3.3/0.5.1/nscplugin_3.3.3-0.5.1.jar" />
+      </plugins>
+    </profile>
+  </component>
+</project>
