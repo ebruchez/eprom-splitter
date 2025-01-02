@@ -13,6 +13,8 @@ You need Scala sbt.
 sbt:eprom-splitter> nativeLink
 ```
 
+Once built, you can just use the native binary and you have no more runtime dependencies on Java or Scala.
+
 ### Usage
 
 ```bash
